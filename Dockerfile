@@ -1,2 +1,2 @@
 FROM caddy:2.6.4
-COPY caddy /usr/bin/caddy
+COPY caddy-amd64 /usr/bin/caddy
