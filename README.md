@@ -1,3 +1,3 @@
 # caddy
 
-A [Caddy](https://github.com/caddyserver/caddy) Docker image, with some additional goodies.
+A [Caddy](https://github.com/caddyserver/caddy) binary and Docker image, with some additional goodies.
