@@ -31,7 +31,7 @@ jobs:
     - name: Upload asset
       uses: softprops/action-gh-release@v1
       with:
-        files: caddy-amd64
+        files: caddy-arm64
 
     - name: Log in to registry
       run: |
